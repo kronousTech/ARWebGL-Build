@@ -1,9 +1,9 @@
 const cacheName = "InvigoRetail-ARWebGL-1.0.0";
 const contentToCache = [
     "Build/ARWebGL.loader.js",
-    "Build/ARWebGL.framework.js.br",
-    "Build/ARWebGL.data.br",
-    "Build/ARWebGL.wasm.br",
+    "Build/ARWebGL.framework.js",
+    "Build/ARWebGL.data",
+    "Build/ARWebGL.wasm",
     "TemplateData/style.css"
 
 ];
